@@ -5,5 +5,5 @@
 	justify-content:space-evenly;
 	display-direction:row;
 	gap:10px;
-	display-wrap:wrap;
+	flex-wrap:wrap;
 }
