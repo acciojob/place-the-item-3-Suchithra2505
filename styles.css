@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	display-content:space-around;
+	display-direction:row;
+	gap:10px;
+	display-wrap:wrap;
+}
